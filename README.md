@@ -17,12 +17,12 @@
 * KMeans Clustering is used - Silhotte Score and Cluster Inertia Score used to fix the number of clusters.
 * Done profiling to draw insights for the clusters.
 
-<p align="center"><img style="width: 600px; height: 370px src="Picture4_cluster_vs_silhoutte.png" /></p>
+<p align="center"><img src="Picture4_cluster_vs_silhoutte.png" style="width: 600px; height: 370px" /></p>
 
 ## Final Clusters and Recommendations 
 * Based on silhouette_score, i have taken number of clusters to be 4.
 
-<p align="center"><img style="width: 600px; height: 370px src="Picture5_clusters_plot.png" /></p>
+<p align="center"><img src="Picture5_clusters_plot.png"  style="width: 600px; height: 370px" /></p>
 
 * **Suggested Marketing Strategy for these clusters:**
 
