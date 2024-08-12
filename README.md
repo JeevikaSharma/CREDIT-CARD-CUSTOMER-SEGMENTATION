@@ -1,6 +1,6 @@
 # Credit Card Customer Segmentation
 <p align="center">
-  <img src="credit_cards.jpeg" style="width: 300px; height: 120px;" />
+  <img src="credit_cards.jpeg" style="width: 800px; height: 170px;" />
 </p>
 
 --------------------------------------------------------------------------------
