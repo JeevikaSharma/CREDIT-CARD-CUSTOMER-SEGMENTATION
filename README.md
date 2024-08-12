@@ -1,4 +1,4 @@
-# Credit Card Customer Segmentation
+# <u> Credit Card Customer Segmentation</u>
 <p align="center">
   <img src="credit_cards.jpeg" style="width: 800px; height: 270px;" />
 </p>
