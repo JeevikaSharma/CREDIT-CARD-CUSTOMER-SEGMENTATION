@@ -45,7 +45,7 @@
 
 <p align="center"><img src="Picture5_clusters_plot.png"  style="width: 600px; height: 370px" /></p>
 
-* **Suggested Marketing Strategy for these clusters:**
+## Suggested Marketing Strategy for these clusters:
 
 
 * Group 0 
