@@ -16,7 +16,7 @@
 
 <p align="center"><img width="60%" src="images/silhottescor.png" /></p>
 
-## Final Clusters and Recommendations
+## Final Clusters and Recommendations 
 * Based on silhouette_score, i have taken number of clusters to be 4.
 
 <p align="center"><img width="60%" src="images/cluster.png" /></p>
