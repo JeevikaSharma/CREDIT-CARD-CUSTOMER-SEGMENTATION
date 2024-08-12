@@ -1,9 +1,11 @@
 # <u> Credit Card Customer Segmentation</u>
+
+--------------------------------------------------------------------------------
 <p align="center">
   <img src="credit_cards.jpeg" style="width: 800px; height: 270px;" />
 </p>
 
---------------------------------------------------------------------------------
+
 
 **Business Context:** This case requires to develop a customer segmentation to define marketing strategy. The dataset has about 9000 credit card holders information for last 6 months.
 
