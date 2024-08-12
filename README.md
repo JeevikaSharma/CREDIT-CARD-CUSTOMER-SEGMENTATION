@@ -19,25 +19,25 @@
 
 ## Dataset Description
 
-<b>CUST_ID:</b>   Credit card holder ID<br>
- <b>BALANCE:</b>    Monthly average balance (based on daily balance averages)<br>
- <b>BALANCE_FREQUENCY:</b>    Ratio of last 12 months with balance<br>
- <b>PURCHASES: </b>   Total purchase amount spent during last 12 months<br>
- <b>ONEOFF_PURCHASES: </b>   Total amount of one-off purchases<br>
- <b>INSTALLMENTS_PURCHASES: </b>   Total amount of installment purchases<br>
- <b>CASH_ADVANCE: </b>   Total cash-advance amount<br>
- <b>PURCHASES_FREQUENCY: </b>   Frequency of purchases (Percent of months with at least one purchase)<br>
- <b>ONEOFF_PURCHASES_FREQUENCY: </b>   Frequency of one-off-purchases<br>
- <b>PURCHASES_INSTALLMENTS_FREQUENCY:   </b> Frequency of installment purchases<br>
- <b>CASH_ADVANCE_FREQUENCY:   </b> Cash-Advance frequency<br>
- <b>AVERAGE_PURCHASE_TRX:</b>    Average amount per purchase transaction<br>
- <b>CASH_ADVANCE_TRX: </b>   Average amount per cash-advance transaction<br>
- <b>PURCHASES_TRX: </b>   Average amount per purchase transaction<br>
- <b>CREDIT_LIMIT:</b>    Credit limit<br>
- <b>PAYMENTS: </b>   Total payments (due amount paid by the customer to decrease their statement balance) in the period<br>
- <b>MINIMUM_PAYMENTS: </b>   Total minimum payments due in the period.<br>
- <b>PRC_FULL_PAYMEN: </b>   Percentage of months with full payment of the due statement balance<br>
- <b>TENURE: </b>   Number of months as a customer<br>
+* <b>CUST_ID:</b>   Credit card holder ID<br>
+* <b>BALANCE:</b>    Monthly average balance (based on daily balance averages)<br>
+* <b>BALANCE_FREQUENCY:</b>    Ratio of last 12 months with balance<br>
+* <b>PURCHASES: </b>   Total purchase amount spent during last 12 months<br>
+* <b>ONEOFF_PURCHASES: </b>   Total amount of one-off purchases<br>
+* <b>INSTALLMENTS_PURCHASES: </b>   Total amount of installment purchases<br>
+* <b>CASH_ADVANCE: </b>   Total cash-advance amount<br>
+* <b>PURCHASES_FREQUENCY: </b>   Frequency of purchases (Percent of months with at least one purchase)<br>
+* <b>ONEOFF_PURCHASES_FREQUENCY: </b>   Frequency of one-off-purchases<br>
+* <b>PURCHASES_INSTALLMENTS_FREQUENCY:   </b> Frequency of installment purchases<br>
+* <b>CASH_ADVANCE_FREQUENCY:   </b> Cash-Advance frequency<br>
+* <b>AVERAGE_PURCHASE_TRX:</b>    Average amount per purchase transaction<br>
+* <b>CASH_ADVANCE_TRX: </b>   Average amount per cash-advance transaction<br>
+* <b>PURCHASES_TRX: </b>   Average amount per purchase transaction<br>
+* <b>CREDIT_LIMIT:</b>    Credit limit<br>
+* <b>PAYMENTS: </b>   Total payments (due amount paid by the customer to decrease their statement balance) in the period<br>
+* <b>MINIMUM_PAYMENTS: </b>   Total minimum payments due in the period.<br>
+* <b>PRC_FULL_PAYMEN: </b>   Percentage of months with full payment of the due statement balance<br>
+* <b>TENURE: </b>   Number of months as a customer<br>
 
 
 ## Final Clusters and Recommendations 
