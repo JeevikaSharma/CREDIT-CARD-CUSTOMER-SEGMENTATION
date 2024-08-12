@@ -27,15 +27,15 @@
 * **Suggested Marketing Strategy for these clusters:**
 
 
-  * Group 0 
+* Group 0 
    - They are potential target customers who are paying bills and doing purchases and maintaining comparatively good credit score. So we can <i>increase credit limit or can lower down interest rate. Promote premium cards/loyality cards</i> to increase transcations.
    
-  * Group 1
+* Group 1
    - These customers are taking maximum cash advance, these customers should be given remainders for payments. Offers can be provided on early payments to improve their payment rate.
 
-  * Group 2
+* Group 2
    - This is performing best among all the clusters are maintaining highest monthly average purchases. Giving any reward points might increase their purchases.
    
-  * Group 3
+* Group 3
    - This group is doing maximum oneoff payments(may be for bills only). Customers of this group can be offered discount/offer on next transactions upon full payment.
    
